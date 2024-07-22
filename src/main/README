@@ -1,0 +1,10 @@
+An application has been implemented that displays the activity
+of an electronics store.
+
+A connecting table "Employee-Type of electronics" has been implemented to store information about
+the employee's ability to advise the buyer on different types
+of electronics (the implementation of communication is "many to many"), while when adding
+a purchase record, the seller, who does not contain the corresponding etype, cannot
+make the purchase for himself.
+ The ability to add and edit entries to the main
+registries has been implemented.
